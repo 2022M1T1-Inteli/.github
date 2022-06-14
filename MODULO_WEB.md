@@ -1,5 +1,7 @@
+# Barra de navegação:
+#  → Módulo web (você está aqui)
+#  <a href="https://github.com/Intelihub/InteliProjects">Módulo game</a>
 
-#  → Módulo web | <a href="https://github.com/Intelihub/InteliProjects">Módulo game</a>
 # Inteli - Instituto de Tecnologia e Liderança 
 
 <p align="center">
